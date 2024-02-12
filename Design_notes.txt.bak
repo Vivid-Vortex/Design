@@ -1,0 +1,22 @@
+Most popular tool or language to build any sort of software diagram:
+
+Popular diagramming software:
+
+	Microsoft Visio: Widely used, especially in Windows environments, with extensive features and pre-built templates. Paid, powerful but can be complex for beginners.
+
+	Lucidchart: User-friendly interface, collaborative features, supports various diagram types. Paid, subscription-based.
+
+	Draw.io: Free, open-source tool, integrates with Google Drive and other platforms. Can be less intuitive for complex diagrams.
+
+	Miro: Whiteboard collaboration platform with diagramming capabilities, good for brainstorming and real-time collaboration. Freemium model, advanced features require paid plans.
+
+	Creately: Affordable, easy-to-use with a large library of templates. May not offer the versatility of other options for highly technical diagrams.
+
+Diagrams as code" languages:
+
+	PlantUML: Text-based DSL for creating UML diagrams and more. Free, open-source, integrates with code repositories. Requires learning a specific syntax.
+
+	Mermaid: Markdown-inspired syntax for generating flowcharts, sequence diagrams, etc. Free, open-source, lightweight option. Limited to specific diagram types.
+
+	Structurizr: Generates software architecture diagrams from a model described in its DSL. Free and open-source with paid options. Requires technical knowledge and may not be suitable for casual diagramming.
+--------------------------------------------------------------------------------------------------------------------------------
